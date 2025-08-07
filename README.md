@@ -27,7 +27,7 @@ A regra principal do desafio era manter o código simples, **sem usar laços de 
 
 ## 🛠️ Como o Programa Funciona
 
-O código em `super_trunfo.c` funciona de maneira bem direta:
+O código em `CartasSuperTrunfo.c` funciona de maneira bem direta:
 
 1.  **Declaração de Variáveis:** Primeiro, eu reservei um espaço na memória para cada informação das duas cartas.
 2.  **Interação com o Usuário:** O programa imprime na tela mensagens pedindo cada um dos dados, um por vez.
